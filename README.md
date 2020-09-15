@@ -4,7 +4,7 @@
 Tenho 17 anos, amo programação e estou sempre tentando aprender mais! Meu foco atual é desenvolvimento de aplicações Web (backend e frontend) e Mobile.
 Amo Javascript e C#!
 
-**Tecnologias que estou estudnando: **
+### Tecnologias que estou estudnando:
 <p align="left">
   <code><img src="https://user-images.githubusercontent.com/15526179/93211471-aca55600-f737-11ea-9a57-8a328cfb4cb8.png" alt="Typescript Logo" width="40" height="40"></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/15526179/93211547-c5ae0700-f737-11ea-8f82-95c80b013d08.png" alt="ReactJS Logo" width="60" height="40"></code>&nbsp;
