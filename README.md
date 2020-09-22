@@ -1,10 +1,10 @@
 ### Olá Pessoal 👋
 
-### Me chamo Gustavo Teodoro Bauke
-Tenho 17 anos, amo programação e estou sempre tentando aprender mais! Meu foco atual é desenvolvimento de aplicações Web (backend e frontend) e Mobile.
-Amo Javascript e C#!
+### My name is Gustavo Teodoro Bauke
+I am 17 years old, I love programming and I always trying to learn something new! Passionate by Web development (both front and backend) and by Mobile development.
+Javascript and C# ❤
 
-### Tecnologias que estou estudnando:
+### What am I currently studying?:
 <p align="left">
   <code><img src="https://user-images.githubusercontent.com/15526179/93211471-aca55600-f737-11ea-9a57-8a328cfb4cb8.png" alt="Typescript Logo" width="40" height="40"></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/15526179/93211547-c5ae0700-f737-11ea-8f82-95c80b013d08.png" alt="ReactJS Logo" width="60" height="40"></code>&nbsp;
