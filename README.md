@@ -14,5 +14,5 @@ Javascript and C# ❤
   <img src="https://user-images.githubusercontent.com/15526179/93211558-c9da2480-f737-11ea-9683-6da48d910e60.png" alt="PostgreSQL Logo" width="40" height="40">&nbsp;
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=kimon0202&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimon0202&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=gtbauke&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gtbauke&layout=compact&theme=dark)
