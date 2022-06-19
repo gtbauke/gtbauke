@@ -1,8 +1,8 @@
 ### Hello There 👋
 
 ### My name is Gustavo Teodoro Bauke
-I am 18 years old, I love programming and I always trying to learn something new! Passionate by Web development (both front and backend), by Mobile development and by Compilers and Interpreters.
-Javascript and C# ❤
+I am 19 years old, I love programming and I always trying to learn something new! Passionate by Web development (both front and backend), by Mobile development and by Compilers and Interpreters.
+TypeScript, C# and Rust ❤
 
 ### What am I currently studying?:
 <p align="left">
